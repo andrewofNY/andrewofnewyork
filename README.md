@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andrewofnewyork
+- 👀 I’m interested in software development, automation, machine learning and more.
+- 🌱 I’m currently learning Python through project-based exercises.
+- 📫 How to reach me: @andrewofnewyork on Twitter and IG or at andrew@andrewofnewyork.com
