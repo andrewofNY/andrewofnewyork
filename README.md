@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew!
-- By day, I work remotely as a Content Strategist for a B2B agency. But I'm working towards becoming a software developer.
+- 👨🏾‍💻 By day, I work remotely as a Content Strategist for a B2B agency. But I'm working towards becoming a software developer.
 - 👀 I'm interested in software development and engineering, web3, and creating more power and privacy for users on the internet.
 - 🌱 I’m currently learning learning full stack development and hope to get a job working in the industry soon.
 - 📫 How to reach me: @andrewofnewyork on Twitter.
